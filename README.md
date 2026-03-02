@@ -7,9 +7,7 @@ a następnie wykonano na nich w Power Query operację ETL.
 Modelem jest jedna tabela **Dane** która jest połączonym zbiorem trzech tabel z informacjami o ludności dla każdego z miast.
 
 ## Raport
-![Strona 1](img/strona1.PNG)
-![Strona 2](img/strona2.PNG)
-![Strona 3](img/strona3.PNG)
+(https://github.com/MatemXVI/Analiza-zmian-ludno-ci-najwi-kszych-polskich-miast-w-latach-1500-2019/blob/main/miasta.pdf)
 
 ## Kluczowe wnioski 
 * **Dominacja Warszawy przed rozbiorami:** Miasto Warszawa stale przewyższa nad liczbą ludności od 1780 roku, w 1624 jednokrotnie przewyższyła Kraków i Wrocław
